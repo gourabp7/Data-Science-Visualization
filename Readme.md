@@ -27,3 +27,6 @@ The box plot shown is for products Cereals, Meat and fish, Egg, Milk, Oil and fa
 The bar plot shown is for all the months in 2013. It describes the overall All India Consumer Price Index across months in 2013. It can be observed that January had lower overall Index than July which had lower overall Index than December in the year 2013.
 
 ![Bar Plot](/figures/bar.png)
+
+## Reference
+[Data.gov.in - All India Consumer Price Index upto August 2021](https://data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-august-2021)
